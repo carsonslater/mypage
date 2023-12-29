@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Review on Carson L. Slater</title>
+    <link>/categories/book-review/</link>
+    <description>Recent content in Book Review on Carson L. Slater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 May 2023 00:00:05 +0000</lastBuildDate><atom:link href="/categories/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In the Name of Jesus</title>
+      <link>/blogs/nouwen/</link>
+      <pubDate>Wed, 10 May 2023 00:00:05 +0000</pubDate>
+      
+      <guid>/blogs/nouwen/</guid>
+      <description>Reflections on my reading of Henri Nouwen&amp;rsquo;s &lt;em&gt;In the Name of Jesus&lt;/em&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
