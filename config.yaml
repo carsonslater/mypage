@@ -2,7 +2,7 @@ baseurl: 'https://carsonslater.com/'
 languageCode: en-US
 title: Carson L. Slater
 theme: hugo-profile
-googleAnalytics: ''
+googleAnalytics: 'G-24B431J36B'
 disqusShortname: ''
 ignoreFiles:
   - \.Rmd$
