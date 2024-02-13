@@ -295,12 +295,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Assessing Aggregate Interference with Regression Analysis Techniques
-        content: Using GAMs to predict interference in Dynamic Spectrum Access.
+      - title: Assessing Interference with Regression Analysis Techniques
+        content: Using GAMs to predict pairwise interference in Dynamic Spectrum Access.
         image: /images/projects/noise_pred.png
         featured:
           name: Paper
-          link: "/regression_agg_interference_final.pdf"
+          link: "/regression_interference.pdf"
         badges:
           - "Dynamic Spectrum Access"
           - "Generalized Additive Models"
