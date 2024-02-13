@@ -179,8 +179,8 @@ params:
       items:
         - "R/RStudio"
         - "Quarto"
-        - "reveal.js"
         - "Git/Github"
+        - "reveal.js"
         - "Docker"
         - "LaTeX"
 
@@ -254,10 +254,10 @@ params:
           url: "https://www.baylor.edu"
         date: "Pending"
         GPA: "3.90 out of 4.00"
-        content: |-
-          Extracurricular Activities
-            - Baylor Sports Analytics Club
-            - Baylor Country Dance Club
+        # content: |-
+        #   Extracurricular Activities
+        #     - Baylor Sports Analytics Club
+        #     - Baylor Country Dance Club
       - title: "B.S. Applied Mathematics,   B.A. Economics"
         school:
           name: "Wheaton College (IL)"
