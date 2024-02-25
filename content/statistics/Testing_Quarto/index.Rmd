@@ -10,8 +10,7 @@ summary: "This is simply a test post."
 tags:
 - Quarto
 - Python
-title: Testing with Hugo and Quarto
-format: hugo-md
+title: Testing with Hugo and RMarkdown
 ---
 ## Plotting Complex Functions
 
@@ -71,7 +70,7 @@ df <- cbind(mesh, my_colors) |>
   as.data.frame()
 ```
 
-```{r 6 plot, fig.height = 5, fig.width = 5, warning = FALSE}
+```{r 6 plot, warning = FALSE}
 # plot replica attempt
 df |>
   ggplot(aes(x, y)) +
@@ -80,3 +79,8 @@ df |>
   scale_fill_identity() +
   coord_equal(xlim = c(-2,2), ylim = c(-2,2))
 ```
+
+```{r}
+2L + 2L
+```
+

@@ -10,8 +10,7 @@ summary: "This is simply a test post."
 tags:
 - Quarto
 - Python
-title: Testing with Hugo and Quarto
-format: hugo-md
+title: Testing with Hugo and RMarkdown
 ---
 ## Plotting Complex Functions
 
@@ -74,4 +73,14 @@ df |>
   coord_equal(xlim = c(-2,2), ylim = c(-2,2))
 ```
 
-<embed src="index_files/figure-html/6 plot-1.pdf" width="480" type="application/pdf" />
+<embed src="index_files/figure-html/6 plot-1.pdf" width="576" type="application/pdf" />
+
+
+```r
+2L + 2L
+```
+
+```
+## [1] 4
+```
+
