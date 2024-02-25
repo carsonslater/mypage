@@ -182,11 +182,6 @@ Blog | Carson L. Slater
             </a>
 
             
-                <div>
-                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Search'
-                        aria-label="Search" oninput="searchOnChange(event)">
-                </div>
-            
 
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
@@ -199,12 +194,6 @@ Blog | Carson L. Slater
             
             <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
                 <ul class="navbar-nav ms-auto text-center">
-                    
-                        <li class="nav-item navbar-text d-block d-md-none">
-                            <div class="nav-link">
-                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Search' aria-label="Search" oninput="searchOnChange(event)">
-                            </div>
-                        </li>
                     
 
                     
@@ -250,11 +239,29 @@ Blog | Carson L. Slater
                     
                     
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="blogs" title="Blog posts">
-                            
+                    <li class="nav-item navbar-text dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Blog">
                             Blog
                         </a>
+                        <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
+                            
+                            <a class="dropdown-item text-center nav-link" href="content/statistics"
+                                title="Statistics">
+                                Statistics
+                            </a>
+                            
+                            <a class="dropdown-item text-center nav-link" href="theology"
+                                title="My Ramblings">
+                                Theology
+                            </a>
+                            
+                            <a class="dropdown-item text-center nav-link" href="blogs"
+                                title="example dropdown 2">
+                                JV Internship 2023
+                            </a>
+                            
+                        </div>
                     </li>
                     
                     
@@ -714,8 +721,6 @@ Blog | Carson L. Slater
 
 </script>
 
-
-    <script src="/js/search.js"></script>
 
 
 

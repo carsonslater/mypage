@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carsonslater.com/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/categories/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/tags/python/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/tags/quarto/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/categories/statistics/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/statistics/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/tags/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/statistics/testing_quarto/</loc>
+    <lastmod>2024-02-25T00:00:05+00:00</lastmod>
+  </url><url>
     <loc>https://carsonslater.com/blogs/debrief/</loc>
     <lastmod>2023-09-03T00:00:05+00:00</lastmod>
   </url><url>
@@ -14,16 +38,7 @@
     <loc>https://carsonslater.com/blogs/</loc>
     <lastmod>2023-09-03T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://carsonslater.com/</loc>
-    <lastmod>2023-09-03T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonslater.com/categories/</loc>
-    <lastmod>2023-09-03T00:00:05+00:00</lastmod>
-  </url><url>
     <loc>https://carsonslater.com/tags/missions/</loc>
-    <lastmod>2023-09-03T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonslater.com/tags/</loc>
     <lastmod>2023-09-03T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://carsonslater.com/blogs/weeks910/</loc>
@@ -59,13 +74,16 @@
     <loc>https://carsonslater.com/categories/book-review/</loc>
     <lastmod>2023-05-10T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://carsonslater.com/blogs/nouwen/</loc>
+    <loc>https://carsonslater.com/theology/nouwen/</loc>
+    <lastmod>2023-05-10T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonslater.com/theology/</loc>
     <lastmod>2023-05-10T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://carsonslater.com/blogs/funded/</loc>
     <lastmod>2023-04-19T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://carsonslater.com/blogs/bibtheomissions/</loc>
+    <loc>https://carsonslater.com/theology/bibtheomissions/</loc>
     <lastmod>2023-04-03T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://carsonslater.com/blogs/support/</loc>

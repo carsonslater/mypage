@@ -6,7 +6,16 @@
     <description>Recent content on Carson L. Slater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Sep 2023 00:00:05 +0000</lastBuildDate><atom:link href="https://carsonslater.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:05 +0000</lastBuildDate><atom:link href="https://carsonslater.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing with Hugo and Quarto</title>
+      <link>https://carsonslater.com/statistics/testing_quarto/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:05 +0000</pubDate>
+      
+      <guid>https://carsonslater.com/statistics/testing_quarto/</guid>
+      <description>This is simply a test post.</description>
+    </item>
+    
     <item>
       <title>10 Things I Took Away from My Summer Missionary Internship</title>
       <link>https://carsonslater.com/blogs/debrief/</link>
@@ -99,10 +108,10 @@
     
     <item>
       <title>In the Name of Jesus</title>
-      <link>https://carsonslater.com/blogs/nouwen/</link>
+      <link>https://carsonslater.com/theology/nouwen/</link>
       <pubDate>Wed, 10 May 2023 00:00:05 +0000</pubDate>
       
-      <guid>https://carsonslater.com/blogs/nouwen/</guid>
+      <guid>https://carsonslater.com/theology/nouwen/</guid>
       <description>Reflections on my reading of Henri Nouwen&amp;rsquo;s &lt;em&gt;In the Name of Jesus&lt;/em&gt;</description>
     </item>
     
@@ -117,10 +126,10 @@
     
     <item>
       <title>What is a Biblical Theology of Mission?</title>
-      <link>https://carsonslater.com/blogs/bibtheomissions/</link>
+      <link>https://carsonslater.com/theology/bibtheomissions/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:05 +0000</pubDate>
       
-      <guid>https://carsonslater.com/blogs/bibtheomissions/</guid>
+      <guid>https://carsonslater.com/theology/bibtheomissions/</guid>
       <description>Mission was not made for the church. The church was made for mission.</description>
     </item>
     

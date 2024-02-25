@@ -187,11 +187,6 @@ Carson L. Slater
             </a>
 
             
-                <div>
-                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Search'
-                        aria-label="Search" oninput="searchOnChange(event)">
-                </div>
-            
 
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
@@ -204,12 +199,6 @@ Carson L. Slater
             
             <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
                 <ul class="navbar-nav ms-auto text-center">
-                    
-                        <li class="nav-item navbar-text d-block d-md-none">
-                            <div class="nav-link">
-                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Search' aria-label="Search" oninput="searchOnChange(event)">
-                            </div>
-                        </li>
                     
 
                     
@@ -255,11 +244,29 @@ Carson L. Slater
                     
                     
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="blogs" title="Blog posts">
-                            
+                    <li class="nav-item navbar-text dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Blog">
                             Blog
                         </a>
+                        <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
+                            
+                            <a class="dropdown-item text-center nav-link" href="content/statistics"
+                                title="Statistics">
+                                Statistics
+                            </a>
+                            
+                            <a class="dropdown-item text-center nav-link" href="theology"
+                                title="My Ramblings">
+                                Theology
+                            </a>
+                            
+                            <a class="dropdown-item text-center nav-link" href="blogs"
+                                title="example dropdown 2">
+                                JV Internship 2023
+                            </a>
+                            
+                        </div>
                     </li>
                     
                     
@@ -650,9 +657,9 @@ Carson L. Slater
                     
                     <li>Quarto</li>
                     
-                    <li>reveal.js</li>
-                    
                     <li>Git/Github</li>
+                    
+                    <li>reveal.js</li>
                     
                     <li>Docker</li>
                     
@@ -753,17 +760,6 @@ Carson L. Slater
                                 <a href="https://www.baylor.edu" target="_blank">Baylor University</a>
                                 <div class="pb-1">
                                     <small>Aug 2023 - present</small>
-                                    
-                                    <span class="p-2">
-                                        <span 
-                                            style="cursor: pointer;" 
-                                            data-bs-toggle="tooltip" 
-                                            data-bs-placement="top" 
-                                            data-bs-original-title=I&#32;am&#32;currently&#32;one&#32;of&#32;the&#32;youngest&#32;people&#32;in&#32;the&#32;graduate&#32;school&#32;at&#32;Baylor.
-                                        >
-                                            <i class="fas fa-info-circle fa-xs"></i>
-                                        </span>
-                                    </span>
                                     
                                 </div>
 
@@ -939,13 +935,7 @@ Carson L. Slater
                                 </div>
                                 
                                 <div class="py-1 education-content">
-                                    <p>Extracurricular Activities</p>
-<ul>
-<li>Baylor Sports Analytics Club</li>
-<li>Baylor Jiu Jitsu Club</li>
-<li>Baylor Country Dance Club</li>
-</ul>
-
+                                    
                                 </div>
 
                                 
@@ -1003,6 +993,65 @@ Carson L. Slater
     </div>
 </section>
 
+
+<section id="projects" class="py-5">
+    <div class="container">
+        <h3 class="text-center">Projects</h3>
+        <div class="row justify-content-center px-3 px-md-5">
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="Assessing Interference with Regression Analysis Techniques">
+                    <div class="card-head">
+                        <img class="card-img-top" src="/images/projects/noise_pred.png" alt="Assessing Interference with Regression Analysis Techniques">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Dynamic Spectrum Access</span>
+                            
+                            <span class="badge badge-secondary">Generalized Additive Models</span>
+                            
+                            <span class="badge badge-secondary">R/RStudio</span>
+                            
+                            <span class="badge badge-secondary">ggplot2</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">Assessing Interference with Regression Analysis Techniques</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            Using GAMs to predict pairwise interference in Dynamic Spectrum Access.
+                        </div>
+                    </div>
+                    
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="mailto:?subject=Assessing%20Aggregate%20Interference%20Using%20GAMs&amp;body=Check%20out%20this%20project:%20https%3a%2f%2fcarsonslater.com%2f" target="_blank">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://github.com/carsonslater/Predicting_Aggregate_Interference" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </span>
+                        
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="/regression_interference.pdf" target="_blank">
+                                Paper
+                            </a>
+                        </span>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</section>
 
 <section id="contact" class="py-5">
     <div class="container">
@@ -1172,8 +1221,6 @@ Carson L. Slater
 
 </script>
 
-
-    <script src="/js/search.js"></script>
 
 
 

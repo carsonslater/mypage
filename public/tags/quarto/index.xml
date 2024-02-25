@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quarto on Carson L. Slater</title>
+    <link>https://carsonslater.com/tags/quarto/</link>
+    <description>Recent content in Quarto on Carson L. Slater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:05 +0000</lastBuildDate><atom:link href="https://carsonslater.com/tags/quarto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing with Hugo and Quarto</title>
+      <link>https://carsonslater.com/statistics/testing_quarto/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:05 +0000</pubDate>
+      
+      <guid>https://carsonslater.com/statistics/testing_quarto/</guid>
+      <description>This is simply a test post.</description>
+    </item>
+    
+  </channel>
+</rss>
