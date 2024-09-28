@@ -168,7 +168,7 @@ params:
     title: "About Me"
     image: "images/avatar4.png"
     content: |-
-      I am a first-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona. 
+      I am a second-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona. 
       
       Generally speaking, you can find me at <a href = "https://gracewaco.com"> Grace Church Waco </a> on a given Sunday morning, and I'm always trying to find a way to go back to the Czech Republic to work with <a href = "https://kam.cz"> Křesťanská Akademie Mladých </a> again.
       
@@ -177,12 +177,10 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "R/RStudio"
         - "Quarto"
         - "Git/Github"
-        - "reveal.js"
-        - "Docker"
-        - "LaTeX"
+        - "JAGS/Stan"
+        - "Positron"
 
   # Experience
   experience:
@@ -200,7 +198,9 @@ params:
         info:
           enable: false
           content: I am currently one of the youngest people in the graduate school at Baylor.
-        content: "I am currently working as a graduate supplemental instructor for the Introduction to Statistical Methods course (STA 2381) at Baylor University."
+        content: "- Currently, I am consultant at Baylor University in the Statistical Consulting Center, and am a teaching assistant for both the undergraduate and graduate offerings of Computational Statistics (STA 4373/5373/6375) with Dr. David Kahle. \n \n
+        - I have worked with Dr. Mandy Hering also with her on her contributions to the National Science Foundation Harnessing the Data Revolution: Data Science Corps project (Grant no. #1924146). \n \n
+        - I have also worked as a graduate supplemental instructor for the Introduction to Statistical Methods course (STA 2381)."
       
       
       - job: "Intern"
@@ -253,11 +253,10 @@ params:
           name: "Baylor University"
           url: "https://www.baylor.edu"
         date: "Pending"
-        GPA: "3.90 out of 4.00"
-        # content: |-
-        #   Extracurricular Activities
-        #     - Baylor Sports Analytics Club
-        #     - Baylor Country Dance Club
+        GPA: "3.75 out of 4.00"
+        content: |-
+          Extracurricular Activities
+            - Baylor Sports Analytics Club (President)
       - title: "B.S. Applied Mathematics,   B.A. Economics"
         school:
           name: "Wheaton College (IL)"
@@ -295,12 +294,20 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Mo(Wa)²TER Introduction to Data Science Course Material
+        content: Using problems in wastewater treatment to create a data science course.
+        image: /images/projects/mowtr_hex.png
+        featured:
+          name: Harvard Dataverse
+          link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BZJW2E
+        badges:
+          - "Data Science"
+          - "R/RStudio"
+          - "Wastewater Treatment"
+
       - title: Assessing Interference with Regression Analysis Techniques
         content: Using GAMs to predict pairwise interference in Dynamic Spectrum Access.
-        image: /images/projects/noise_pred.png
-        featured:
-          name: Paper
-          link: "/regression_interference.pdf"
+        image: /images/projects/agg_interference_diagram.png
         badges:
           - "Dynamic Spectrum Access"
           - "Generalized Additive Models"
