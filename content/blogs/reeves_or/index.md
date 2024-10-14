@@ -1,6 +1,5 @@
 ---
-authors:
-- admin
+author: Carson Slater
 categories:
 - Blog
 date: "2024-10-13T00:00:05Z"
