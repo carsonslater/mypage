@@ -309,18 +309,16 @@ params:
         content: This work proposes using regression analysis to predict aggregate interference in next-generation Dynamic Spectrum Access (DSA) systems, which must operate in real-time. On this project I was the statistician on this project and built the model.
         image: /images/projects/agg_interference_diagram.png
         featured:
-          name: Github
-          link: https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques
+          name: Paper
+          link: https://ieeexplore.ieee.org/document/10619025
         badges:
           - "Dynamic Spectrum Access"
           - "Generalized Additive Models"
-          - "R/RStudio"
-          - "ggplot2"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Assessing%20Aggregate%20Interference%20Using%20GAMs&body=Check%20out%20this%20project:%20https%3a%2f%2fcarsonslater.com%2f
           - icon: fab fa-github
-            url: https://github.com/carsonslater/Predicting_Aggregate_Interference
+            url: https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques
 
       # - title: Image Converter
       #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
