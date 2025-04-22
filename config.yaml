@@ -317,7 +317,7 @@ params:
           name: Paper
           link: https://www.mdpi.com/2079-4983/16/3/113
         badges:
-          - "Nanoparticle Bactierial Inhibition"
+          - "Nanoparticle Bacterial Inhibition"
           - "Ordinal Regression"
           - "Generalized Linear Mixed Models"
 
