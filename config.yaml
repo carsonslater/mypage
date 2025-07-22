@@ -168,7 +168,7 @@ params:
     title: "About Me"
     image: "images/avatar4.png"
     content: |-
-      I am a second-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona. 
+      third-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona. 
       
       Generally speaking, you can find me at <a href = "https://gracewaco.com"> Grace Church Waco </a> on a given Sunday morning, and I'm always trying to find a way to go back to the Czech Republic to work with <a href = "https://kam.cz"> Křesťanská Akademie Mladých </a> again.
       
@@ -198,7 +198,8 @@ params:
         info:
           enable: false
           content: I am currently one of the youngest people in the graduate school at Baylor.
-        content: "- Currently, I am consultant at Baylor University in the Statistical Consulting Center, and am a teaching assistant for both the undergraduate and graduate offerings of Computational Statistics (STA 4373/5373/6375) with Dr. David Kahle. \n \n
+        content: "- Currently, I am a research assistant with Dr. Mandy Hering where we collaborate with a utility for a Major US city. \n \n
+        - I consulted at Baylor University in the Statistical Consulting Center, and am a teaching assistant for both the undergraduate and graduate offerings of Computational Statistics (STA 4373/5373/6375) with Dr. David Kahle. \n \n
         - I have worked with Dr. Mandy Hering also with her on her contributions to the National Science Foundation Harnessing the Data Revolution: Data Science Corps project (Grant no. #1924146). \n \n
         - I have also worked as a graduate supplemental instructor for the Introduction to Statistical Methods course (STA 2381)."
       
