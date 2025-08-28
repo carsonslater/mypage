@@ -296,6 +296,17 @@ params:
     # title: "Custom Name"
     items:
 
+      - title: Assessing the Effects of Surface-Stabilized Zero-Valent Iron Nanoparticles on Diverse Bacteria Species Using Complementary Statistical Models
+        content: This paper employs statistical methods to do pairwise comparisons when ANOVA assumptions are egregiosly violated.
+        image: /images/projects/greyscale_ridgesv3.png
+        featured:
+          name: Paper
+          link: https://www.mdpi.com/2079-4983/16/3/113
+        badges:
+          - "Nanoparticle Bacterial Inhibition"
+          - "Ordinal Regression"
+          - "Generalized Linear Mixed Models"
+
       - title: Assessing Interference with Regression Analysis Techniques
         content: This work proposes using regression analysis to predict aggregate interference in next-generation Dynamic Spectrum Access (DSA) systems, which must operate in real-time. On this project I was the statistician on this project and built the model.
         image: /images/projects/agg_interference_diagram.png
@@ -311,16 +322,6 @@ params:
           - icon: fab fa-github
             url: https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques
             
-      - title: Assessing the Effects of Surface-Stabilized Zero-Valent Iron Nanoparticles on Diverse Bacteria Species Using Complementary Statistical Models
-        content: This paper employs statistical methods to do pairwise comparisons when ANOVA assumptions are egregiosly violated.
-        image: /images/projects/greyscale_ridgesv3.png
-        featured:
-          name: Paper
-          link: https://www.mdpi.com/2079-4983/16/3/113
-        badges:
-          - "Nanoparticle Bacterial Inhibition"
-          - "Ordinal Regression"
-          - "Generalized Linear Mixed Models"
 
       - title: Mo(Wa)²TER Introduction to Data Science Course Material
         content: We used problems in water and wastewater treatment to create a data science course. On this project I was a compiler and the editor on all of the material before it was published.
@@ -332,6 +333,19 @@ params:
           - "Data Science"
           - "R/RStudio"
           - "Wastewater Treatment"
+
+      - title: Cobalt Theme for Positron
+        content: A dark theme based on the Cobalt RStudio theme for Positron (and VS Code).
+        image: /images/projects/cobalt.png
+        featured:
+          name: Open VSX 
+          link: https://open-vsx.org/extension/CarsonSlater/cobaltpositron
+        badges:
+          - "Positron"
+        links:
+        - icon: fab fa-github
+          url: https://github.com/carsonslater/cobaltpositron
+
 
       # - title: Image Converter
       #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
