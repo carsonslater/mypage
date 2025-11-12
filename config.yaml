@@ -83,7 +83,7 @@ params:
   # This requires your images to be uploaded + hosted on Cloudinary
   # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
   # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
-  
+
   # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
   mathjax: false
 
@@ -107,10 +107,10 @@ params:
   #   backgroundColor:
     secondaryBackgroundColor: "#192C4E"
     primaryColor: "#FF6600"
-  #   secondaryColor: 
+  #   secondaryColor:
 
     darkmode:
-  #     textColor: 
+  #     textColor:
   #     secondaryTextColor:
       backgroundColor: "#192C4E"
   #    secondaryBackgroundColor: "#B7ABA8"
@@ -168,10 +168,10 @@ params:
     title: "About Me"
     image: "images/avatar4.png"
     content: |-
-      I am a third-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona. 
-      
+      I am a third-year graduate student in the <a href="https://statistics.artsandsciences.baylor.edu"> Department of Statistical Science </a> at <a href = "https://www.baylor.edu"> Baylor University </a>. I moved to Waco after completing my undergraduate studies at <a href = "https://www.wheaton.edu"> Wheaton College </a>, where I played baseball for the Thunder. I proudly hail from Phoenix and will spend every second I can visiting northern Arizona.
+
       Generally speaking, you can find me at <a href = "https://gracewaco.com"> Grace Church Waco </a> on a given Sunday morning, and I'm always trying to find a way to go back to the Czech Republic to work with <a href = "https://kam.cz"> Křesťanská Akademie Mladých </a> again.
-      
+
       Currently, I am learning many new statistical methods that will enable me to build predictive models, understand stochastic phenomena, and discover associations in our world.
     skills:
       enable: true
@@ -202,8 +202,8 @@ params:
         - I consulted at Baylor University in the Statistical Consulting Center, and am a teaching assistant for both the undergraduate and graduate offerings of Computational Statistics (STA 4373/5373/6375) with Dr. David Kahle. \n \n
         - I have worked with Dr. Mandy Hering also with her on her contributions to the National Science Foundation Harnessing the Data Revolution: Data Science Corps project (Grant no. #1924146). \n \n
         - I have also worked as a graduate supplemental instructor for the Introduction to Statistical Methods course (STA 2381)."
-      
-      
+
+
       - job: "Intern"
         company: "KAM"
         companyUrl: "https://kam.cz"
@@ -215,7 +215,7 @@ params:
           enable: true
           url: "https://www.youtube.com/watch?v=9g9W-Tql_Cs"
         content: "After support raising for four months, I spent two and a half months working for a youth missions organization in Central and Eastern Europe, called KAM (Křesťanská Akademie Mladých). For this work I lived in Ostrava, CZ where I assisted local CB churches with youth outreach through camps where I taught English and sports. I also helped onboard short-term mission teams who joined us for camps."
-        
+
       - job: "Academic Coach"
         company: "Wheaton Academy"
         companyUrl: "https://wheatonacademy.org"
@@ -297,7 +297,7 @@ params:
     items:
 
       - title: Assessing the Effects of Surface-Stabilized Zero-Valent Iron Nanoparticles on Diverse Bacteria Species Using Complementary Statistical Models
-        content: This paper employs statistical methods to do pairwise comparisons when ANOVA assumptions are egregiosly violated.
+        content: This paper employs statistical methods to do pairwise comparisons when ANOVA assumptions are egregiously violated.
         image: /images/projects/greyscale_ridgesv3.png
         featured:
           name: Paper
@@ -321,7 +321,7 @@ params:
             url: mailto:?subject=Assessing%20Aggregate%20Interference%20Using%20GAMs&body=Check%20out%20this%20project:%20https%3a%2f%2fcarsonslater.com%2f
           - icon: fab fa-github
             url: https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques
-            
+
 
       - title: Mo(Wa)²TER Introduction to Data Science Course Material
         content: We used problems in water and wastewater treatment to create a data science course. On this project I was a compiler and the editor on all of the material before it was published.
@@ -338,7 +338,7 @@ params:
         content: A dark theme based on the Cobalt RStudio theme for Positron (and VS Code).
         image: /images/projects/cobalt.png
         featured:
-          name: Open VSX 
+          name: Open VSX
           link: https://open-vsx.org/extension/CarsonSlater/cobaltpositron
         badges:
           - "Positron"
@@ -359,7 +359,7 @@ params:
       #   links:
       #     - icon: fab fa-github
       #       url: https://github.com/gurusabarish/converter
-      # 
+      #
       # - title: Hugo Profile V2
       #   content: A clean and simple Hugo template for personal portfolio and blog.
       #   image: /images/projects/profile2.jpg
