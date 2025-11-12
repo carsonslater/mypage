@@ -178,9 +178,10 @@ params:
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "Quarto"
+        - "Positron"
         - "Git/Github"
         - "JAGS/Stan"
-        - "Positron"
+
 
   # Experience
   experience:
